@@ -1,5 +1,5 @@
 def main() -> None:
-    print("conflict-1")
+    print("feature-1")
 
 
 if __name__ == '__main__':
