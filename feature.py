@@ -1,5 +1,5 @@
 def main() -> None:
-    print("feature-commit-2")
+    print("feature-commit-3")
 
 
 if __name__ == '__main__':
